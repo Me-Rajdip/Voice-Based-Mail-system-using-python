@@ -1,0 +1,8 @@
+Setup Gmail SMTP Server:
+   Step-1: Firstly, open manage your Google account --> Security --> On two step verification
+   Step-2: Then, search "APP PASSWORD". Click on it.
+   Step-3: Then, add app name (give any name as you like)--> click create bottom
+   Step-4: Generate app password visible on your screen, then copy this password and save your notepad or anywhere u like. And close all tab.
+
+So, here *Accounts* = 'your Gmail account' and *Password* = 'Generated app password'
+After that from your Gmail account Eneble your IMAP  access.(OPEN G-MAIL --> CLICK ON SETTING --> CLICK ON SEE ALL SETTING --> CLICK FORWARDING AND POP/IMAP --> GO IMAP access AND CLICK Enable IMAP) 
