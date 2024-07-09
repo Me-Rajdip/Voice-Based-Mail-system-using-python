@@ -1,0 +1,36 @@
+1. ABSTRUCT:
+The internet's integration of communication technology has made communication so simple in today's environment. However, because using this technology involves visual awareness, it is quite difficult for those who are visually impaired to use it. As technology advances, numerous new innovations are added to aid in their efficient use of computers. However, unlike normal users, visually impaired users cannot use available technologies as quickly or as effectively as naïve users; instead, they need some practice.
+
+2. INTRODUCTION:
+Creating an architectural framework for a Voice Based Mail System that enables visually impaired individuals to access emails with ease and efficiency. The majority of individuals utilize computers for email correspondence, but, there exists a subset of individuals who are visually impaired or blind and hence unable to perceive visual content shown on computer screens or utilize keyboards. The Voice Based Email System allows users to access and send emails using just their voice. This technology will scan your email and get the content of any desired message located in your INBOX.
+
+3.COMPONENT DESCRIPTION:
+- [i] Speech to Text conversion: A voice-to-text converter identifies and analyzes the sounds produced during speaking by filtering your spoken words, and then converts them into a digital format that can be read. The extracted text can be stored in a file. This platform is developed using Python. Our speech-to-text technology acquires and transforms spoken language into written text.
+- [ii] Text to speech conversation: By employing speech synthesis techniques, it transforms written text into audible voice output. Currently, it is widely utilized on devices like portable GPS units to audibly state street names while providing instructions.
+- [iii] Interactive voice response: Interactive voice response (IVR) systems enable users to access and offer information without the need for a live agent by utilizing pre-recorded messages or text-to-speech technology in conjunction with a dual-tone multi-frequency (DTMF) interface.
+
+4. REQUIREMENTS:
+A) FUNCTIONAL REQUIREMENTS:
+      Software Requirement:
+        Python Version: 2.7.13 
+        Requirements: Windows (All Versions), Linux 
+        Languages: Multiple languages 
+        License: Open Source
+        Packages: Gtts,speech_recognition, mp3play, pyaudio, time etc
+        Hardware Requirement:
+        MouseHeadphone with microphone jack.
+
+B) NON-FUNCTIONAL REQUIREMENTS:
+       Performance Requirements 
+       Re liability 
+       Availability 
+       Portability  
+       Security Requirements                   
+
+
+5. REFERENCES:
+ i) Geeks for geeks - https://www.geeksforgeeks.org/projectidea-voice-based-emailvisually-challenged/ 
+ ii) Voice based email system for blinds, International Journal of Advanced Research in Computer and Communication Engineering Vol. 4, Issue 1, January 2015.
+ iii) https://www.python.org/downloads/release/python-2713/
+ iv) https://pypi.python.org/pypi/mp3play
+ v) https://youtu.be/UkafO3Re4Vg
